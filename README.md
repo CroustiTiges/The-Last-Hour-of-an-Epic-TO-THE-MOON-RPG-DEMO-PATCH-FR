@@ -12,6 +12,6 @@ Voici un patch de traduction en français pour la démo du jeu The Last Hour of 
 Note : vous pouvez vous y rendre facilement depuis Steam (image d'exemple ci-dessous)
 <img width="1280" height="512" alt="demo_folder" src="https://github.com/user-attachments/assets/5b01b91a-c8cb-42fa-bd37-e657a81a1e2c" />
 
-## 3. Dépôt du nouveau fichier
+## 2. Dépôt du nouveau fichier
 - Déposer votre nouveau fichier `app.asar` à la place de l'ancien.
 - Windows vous demandera si vous voulez remplacez le fichier, cliquez sur `Remplacer le fichier dans la destination`.

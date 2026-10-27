@@ -8,7 +8,7 @@ Voici un patch de traduction en français pour la démo du jeu The Last Hour of 
 # Guide de traduction
 
 ## 1. Téléchargement
-* Téléchargez le fichier `app.asar` disponible sur [cette page](https://github.com/CroustiTiges/).
+* Téléchargez le fichier `app.asar` disponible sur [cette page]([https://github.com/CroustiTiges/](https://github.com/CroustiTiges/The-Last-Hour-of-an-Epic-TO-THE-MOON-RPG-DEMO-PATCH-FR/releases/tag/first)).
 
 ## 2. Dossier du jeu
 * Rendez-vous dans le répertoire suivant :

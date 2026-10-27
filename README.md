@@ -21,3 +21,7 @@ Voici un patch de traduction en français pour la démo du jeu The Last Hour of 
 ## 3. Remplacement du fichier
 * Déposez votre nouveau fichier `app.asar` à la place de l'ancien.
 * Lorsque Windows vous demandera si vous voulez remplacer le fichier, cliquez sur **Remplacer le fichier dans la destination**.
+
+## 4. Démarrage du jeu
+- Lancez le jeu et profitez-en en français ! 
+- *Note : L'IA a grandement aidé pour cette traduction, ce que le faible volume de dialogues a permis. Aucun projet de traduction n'est prévu pour le jeu final, qui sera confié à des traducteurs professionnels et passionnés.*
